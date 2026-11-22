@@ -1,0 +1,38 @@
+{
+  "01_Simulating_Interplanetary_Omics.ipynb": {
+    "seconds": 14.51,
+    "code_cells": 6,
+    "kernel_mode": "fresh_process_inprocess_kernel",
+    "status": "passed"
+  },
+  "02_PCA_One_Planet_One_View.ipynb": {
+    "seconds": 3.76,
+    "code_cells": 12,
+    "kernel_mode": "fresh_process_inprocess_kernel",
+    "status": "passed"
+  },
+  "03_Probabilistic_Factor_Analysis.ipynb": {
+    "seconds": 26.15,
+    "code_cells": 14,
+    "kernel_mode": "fresh_process_inprocess_kernel",
+    "status": "passed"
+  },
+  "04_Independent_Analyses.ipynb": {
+    "seconds": 24.86,
+    "code_cells": 10,
+    "kernel_mode": "fresh_process_inprocess_kernel",
+    "status": "passed"
+  },
+  "05_Multiview_One_Planet.ipynb": {
+    "seconds": 18.55,
+    "code_cells": 8,
+    "kernel_mode": "fresh_process_inprocess_kernel",
+    "status": "passed"
+  },
+  "06_Multigroup_Two_Planets.ipynb": {
+    "seconds": 39.22,
+    "code_cells": 20,
+    "kernel_mode": "fresh_process_inprocess_kernel",
+    "status": "passed"
+  }
+}

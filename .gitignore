@@ -221,3 +221,16 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Course runtime files
+.DS_Store
+.venv*/
+.uv-cache/
+
+# Keep local reading PDFs out of Git; required readings are linked in README.md.
+/Papers/
+
+# Generated model binaries (the course uses small CSV/NumPy summaries instead).
+*.pt
+*.pth
+*.ckpt

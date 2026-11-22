@@ -1,0 +1,25 @@
+{
+  "python": "3.12.8",
+  "platform": "macOS-26.5.2-arm64-arm-64bit",
+  "machine": "arm64",
+  "versions": {
+    "mofaflex": "0.2.0rc2.dev16+g2710274b7",
+    "mc-astra": "0.1.0",
+    "anndata": "0.13.4",
+    "mudata": "0.4.1",
+    "numpy": "2.5.4",
+    "pandas": "3.1.0",
+    "scipy": "1.18.1",
+    "matplotlib": "3.10.9",
+    "scikit-learn": "1.9.1",
+    "torch": "2.15.0",
+    "nbformat": "5.11.1",
+    "nbclient": "0.11.0",
+    "ipykernel": "7.4.0",
+    "jupyterlab": "4.6.5"
+  },
+  "source_revisions": {
+    "mofaflex": "2710274b758b1c6c4971da46590eaf724fa611a2",
+    "mc-astra": "545a90bff5e961427e61f6a03c29b25bf301b59f"
+  }
+}

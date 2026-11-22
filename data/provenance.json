@@ -1,0 +1,26 @@
+{
+  "specification": {
+    "seed": 2026,
+    "samples": {
+      "Asteron": 80,
+      "Borealis": 72
+    },
+    "features": {
+      "RNA": 90,
+      "Protein": 60
+    },
+    "diseased": {
+      "Asteron": 40,
+      "Borealis": 48
+    },
+    "noise_sd": {
+      "RNA": 0.55,
+      "Protein": 1.1
+    },
+    "n_processes": 6
+  },
+  "measurements": "Gaussian transformed abundance, not counts",
+  "preprocessing": "Stored raw; feature centering and block RMS scaling at analysis time",
+  "generator": "notebooks/course_utils.py:simulate",
+  "truth_used_for_fitting": false
+}
