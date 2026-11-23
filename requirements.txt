@@ -112,7 +112,7 @@ mc-astra @ git+https://github.com/saezlab/mc-astra.git@545a90bff5e961427e61f6a03
 mdurl==0.1.2
 mistune==3.4.0
 mizani==0.14.6
-mofaflex @ git+https://github.com/bioFAM/mofaflex.git@2710274b758b1c6c4971da46590eaf724fa611a2
+mofaflex @ git+https://github.com/bioFAM/mofaflex.git@main
 more-itertools==11.2.1
 mpmath==1.3.0
 msgpack==1.2.4
